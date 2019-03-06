@@ -1,0 +1,6 @@
+framework module Pods_JKIMFrameWork_Tests {
+  umbrella header "Pods-JKIMFrameWork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

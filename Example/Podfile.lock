@@ -1,0 +1,16 @@
+PODS:
+  - JKIMFrameWork (0.1.0)
+
+DEPENDENCIES:
+  - JKIMFrameWork (from `../`)
+
+EXTERNAL SOURCES:
+  JKIMFrameWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JKIMFrameWork: 2b642db410576925bf1cf352013f7ac26801308f
+
+PODFILE CHECKSUM: 8c61c49d66113fd94bada5c306c0144caf29084a
+
+COCOAPODS: 1.6.1

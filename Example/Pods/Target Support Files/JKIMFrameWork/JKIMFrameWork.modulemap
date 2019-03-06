@@ -1,0 +1,6 @@
+framework module JKIMFrameWork {
+  umbrella header "JKIMFrameWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
